@@ -15,20 +15,14 @@
 [![devDependencies Status](https://david-dm.org/KyleGalvin/frontendBoilerplate/dev-status.svg)](https://david-dm.org/KyleGalvin/frontendBoilerplate?type=dev)
 ## Purpose:
 
-This is a boilerplate launch project meant to accelerate application development start times for new projects.
+This is a websocket and webrtc router for broadcasting contact statuses and bootstrapping peer connections.
 
 ## Developer Notes:
 
-This application pairs out of the box with a corresponding frontend project hosted [here](https://github.com/KyleGalvin/frontendBoilerplate)
+This application is one of two backend components in the sharifyr product
 
 ## Todo:
 
-* 'group' API test coverage
-* docker containerization
-* stricter permission constraints on api actions
-* swagger.json security
-* graphql type safety
-* Uuids instead of auto_increment keys
 
 ## Requirements:
 
